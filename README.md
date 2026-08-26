@@ -1,8 +1,10 @@
-# Company AI Architect — one-scroll story
+# Company AI Architect — public story site
 
-Jack Roberts Kimi K3 factory run (2026-08-25).
+Canonical company URL: **https://companyaiarchitect.com**
 
-**Live:** https://k3-architect-story.vercel.app  
-**Vault copy:** `~/Desktop/brain/brain_vault/ventures/k3-architect-story/`
+Mirrors:
+- Vercel: https://k3-architect-story.vercel.app
+- GitHub Pages: https://joshtitan88-collab.github.io/company-ai-architect/
+- Working copy of the live tree: `public/` (synced from `~/Projects/company-ai-architect-site`)
 
-Static site in `public/`. Brand tokens and BLAST notes in `CLAUDE.md`, `findings.md`, `task_plan.md`.
+Static HTML/CSS/JS. Product engine stays LAN-only.
